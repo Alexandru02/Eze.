@@ -1,0 +1,13 @@
+}
+"Name" : "Eze."
+"Description" :"Hack"
+"version" : "0.0.0"
+"main" : "go.js"
+"scripts" : {
+  "start" : "node go.js"
+},
+"dependencies" : {
+   "discord.js" : "11.1.0"
+    "reqiests": "2.81.0"
+  }
+)
